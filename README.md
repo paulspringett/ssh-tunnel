@@ -1,3 +1,3 @@
 # mysql-ssh-tunnel
 
-SSH tunnel using a Docker container
+MySQL SSH tunnel connection via a Docker container
