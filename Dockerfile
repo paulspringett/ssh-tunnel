@@ -1,5 +1,5 @@
 FROM alpine:3.2
-MAINTAINER Paul Springett <paul@springett.me>
+MAINTAINER Paul Springett <paul.springett@songkick.com>
 
 RUN apk add --update openssh-client && \
     rm -rf /var/cache/apk/*
